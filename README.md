@@ -8,4 +8,4 @@ Wednesday 7th november
 
 Monday 12th november
 
-[History 1](https://paulabart.github.io/history/history-list) added frist HTML.
+[History List](https://paulabart.github.io/history/history-list) added frist HTML.
